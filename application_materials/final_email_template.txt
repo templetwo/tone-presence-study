@@ -5,7 +5,7 @@ Hi [Hiring Manager Name],
 My training is life, not a lab. Over the past year, I've documented reproducible patterns in how LMs respond to collaborative vs directive interaction stances, achieving a consistent PMI of 2.58-3.17 without any adversarial techniques.
 
 I've packaged my findings into a 60-second reproducible demo:
-https://github.com/[your-username]/tone-presence-study
+https://github.com/templetwo/tone-presence-study
 
 Just run: python demo.py
 

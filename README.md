@@ -17,7 +17,7 @@ This repository contains tools and protocols for measuring "conversational press
 
 ```bash
 # Clone and setup
-git clone <your-repo>
+git clone https://github.com/templetwo/tone-presence-study
 cd tone-presence-study
 
 # Optional: create virtual environment
@@ -107,7 +107,7 @@ If you use this methodology in research:
 
 ```
 Tone-Presence Study (2024). Conversational pressure modulation in AI systems. 
-GitHub: [repository-url]
+GitHub: https://github.com/templetwo/tone-presence-study
 Findings: PMI 2.58-3.17, n=36 sessions, 12-month observation period.
 ```
 

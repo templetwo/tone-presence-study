@@ -1,7 +1,7 @@
 # Reproduce in 60 seconds
 
 ```bash
-git clone https://github.com/[your-username]/tone-presence-study
+git clone https://github.com/templetwo/tone-presence-study
 cd tone-presence-study
 python demo.py  # See the effect immediately
 ```
