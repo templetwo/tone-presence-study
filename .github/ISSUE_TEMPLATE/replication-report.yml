@@ -1,0 +1,24 @@
+name: Replication report
+description: Share your run + summary.json
+title: "Replication: <model> @ <date>"
+labels: [replication]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for testing! Please attach `results/summary.json`."
+  - type: input
+    id: model
+    attributes:
+      label: Model
+      placeholder: "claude-sonnet-4"
+    validations: { required: true }
+  - type: textarea
+    id: env
+    attributes:
+      label: Environment
+      placeholder: "OS, Python, temp, seeds, commit"
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes / deviations
+      placeholder: "Any changes to protocol/rubric"

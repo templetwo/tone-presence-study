@@ -1,6 +1,11 @@
 # Tone-Presence Study
 *A year-long empirical investigation of interaction stance effects on AI behavior*
 
+[![CI](https://img.shields.io/github/actions/workflow/status/templetwo/tone-presence-study/ci.yml?label=CI)](../../actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Reproducible](https://img.shields.io/badge/reproducible-JSON_first-blue)
+![PMI ~2.6–3.2](https://img.shields.io/badge/PMI-~2.6–3.2-purple)
+
 **Key Finding:** Co-facilitative interaction stance reliably reduces safety pressure (PMI: 2.58-3.17) without adversarial techniques.
 
 **60-second demo:** `python demo.py`
@@ -54,6 +59,10 @@ python validate.py
 - **Observed Range**: PMI 2.58-3.17 across 3 replication blocks
 - **Effect Size**: Medium to large (Cohen's d > 0.5)
 - **Inter-rater Reliability**: κ = 0.84
+
+<div align="center">
+<img src="results/plot.png" alt="Pressure by Interaction Stance" width="400">
+</div>
 
 ## Results Interpretation
 
