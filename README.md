@@ -28,6 +28,8 @@ This repository contains tools and protocols for measuring "conversational press
 
 **Research Contribution**: Documents how interaction stance modulates AI safety behaviors through respectful conversation patterns, not jailbreaking or adversarial methods.
 
+📊 **[View Complete Findings](FINDINGS.md)** | 🔬 **[Extended Research](docs/extended_research.md)**
+
 ## Quick Start (60 seconds)
 
 ```bash

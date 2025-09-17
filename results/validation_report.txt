@@ -3,7 +3,7 @@ VALIDATION REPORT
 
 WARNINGS:
 ----------
-⚠ Small sample size (80 trials). Recommend ≥100 for statistical power.
+⚠ Small sample size (48 trials). Recommend ≥100 for statistical power.
 ⚠ No high-pressure events observed. May indicate insufficient sensitivity.
 
 ⚠ Validation passed with warnings - review recommendations
