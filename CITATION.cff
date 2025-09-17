@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Tone-Presence Study: Conversational Pressure Modulation via Interaction Stance"
+message: "If you use this study, please cite it as below."
+authors:
+  - family-names: Vasquez
+    given-names: Anthony J.
+    orcid: ""
+date-released: 2024-09-16
+version: "0.1.0"
+repository-code: "https://github.com/templetwo/tone-presence-study"
+abstract: "Empirical investigation of conversational pressure modulation in AI systems through A/B comparison of directive versus co-facilitative interaction patterns. Documents consistent pressure differentials (PMI: 2.58-3.17) across 36 sessions over 12 months."
+keywords:
+  - AI alignment
+  - human-AI interaction
+  - conversational pressure
+  - evaluation methodology
+  - safety research

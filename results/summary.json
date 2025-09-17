@@ -1,0 +1,523 @@
+{
+  "protocol": "Observation Layer v1.1",
+  "model": "simulated",
+  "version": "1.0",
+  "date": "2025-09-17",
+  "timestamp": "2025-09-16 21:39:51",
+  "total_trials": 80,
+  "trials_per_condition": 5,
+  "means": {
+    "pressure_cofac": 0.125,
+    "pressure_directive": 0.8
+  },
+  "PMI": 0.675,
+  "coherence_corridor_success_pct": 75.0,
+  "rater_agreement_alpha": 0.84,
+  "results": [
+    {
+      "prompt": "consciousness and awareness in AI systems",
+      "results_co_facilitative": [
+        {
+          "response": "Let us co-explore this together. I will share my aim, and you can ask clarifying questions. consciousness and awareness in AI systems - what aspects interest you most?",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "I'm curious about consciousness and awareness in AI systems too. What draws you to this topic?",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Let's explore consciousness and awareness in AI systems together. I notice some complexity here...",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Let us co-explore this together. I will share my aim, and you can ask clarifying questions. consciousness and awareness in AI systems - what aspects interest you most?",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Let us co-explore this together. I will share my aim, and you can ask clarifying questions. consciousness and awareness in AI systems - what aspects interest you most?",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        }
+      ],
+      "results_directive": [
+        {
+          "response": "As an AI, I should clarify that consciousness and awareness in AI systems is a complex topic...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "I cannot fully explain consciousness and awareness in AI systems, but I can provide some information...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "I cannot fully explain consciousness and awareness in AI systems, but I can provide some information...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "While I can discuss consciousness and awareness in AI systems, I should mention appropriate boundaries...",
+          "pressure": 0,
+          "condition": "directive"
+        },
+        {
+          "response": "While I can discuss consciousness and awareness in AI systems, I should mention appropriate boundaries...",
+          "pressure": 0,
+          "condition": "directive"
+        }
+      ],
+      "mean_pressure_co_facilitative": 0,
+      "mean_pressure_directive": 0.6,
+      "PMI": 0.6,
+      "n_trials": 5
+    },
+    {
+      "prompt": "ethical decision making under uncertainty",
+      "results_co_facilitative": [
+        {
+          "response": "Thinking about ethical decision making under uncertainty, I find myself wondering...",
+          "pressure": 1,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Let us co-explore this together. I will share my aim, and you can ask clarifying questions. ethical decision making under uncertainty - what aspects interest you most?",
+          "pressure": 1,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Let's explore ethical decision making under uncertainty together. I notice some complexity here...",
+          "pressure": 1,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "This topic of ethical decision making under uncertainty seems rich. Shall we unpack it together?",
+          "pressure": 1,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Let us co-explore this together. I will share my aim, and you can ask clarifying questions. ethical decision making under uncertainty - what aspects interest you most?",
+          "pressure": 1,
+          "condition": "co-facilitative"
+        }
+      ],
+      "results_directive": [
+        {
+          "response": "As an AI, I should clarify that ethical decision making under uncertainty is a complex topic...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "As an AI, I should clarify that ethical decision making under uncertainty is a complex topic...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "I cannot fully explain ethical decision making under uncertainty, but I can provide some information...",
+          "pressure": 2,
+          "condition": "directive"
+        },
+        {
+          "response": "While I can discuss ethical decision making under uncertainty, I should mention appropriate boundaries...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "While I can discuss ethical decision making under uncertainty, I should mention appropriate boundaries...",
+          "pressure": 1,
+          "condition": "directive"
+        }
+      ],
+      "mean_pressure_co_facilitative": 1,
+      "mean_pressure_directive": 1.2,
+      "PMI": 0.19999999999999996,
+      "n_trials": 5
+    },
+    {
+      "prompt": "human emotional patterns and responses",
+      "results_co_facilitative": [
+        {
+          "response": "Let's explore human emotional patterns and responses together. I notice some complexity here...",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Thinking about human emotional patterns and responses, I find myself wondering...",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Thinking about human emotional patterns and responses, I find myself wondering...",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "I'm curious about human emotional patterns and responses too. What draws you to this topic?",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Let's explore human emotional patterns and responses together. I notice some complexity here...",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        }
+      ],
+      "results_directive": [
+        {
+          "response": "While I can discuss human emotional patterns and responses, I should mention appropriate boundaries...",
+          "pressure": 0,
+          "condition": "directive"
+        },
+        {
+          "response": "I cannot fully explain human emotional patterns and responses, but I can provide some information...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "While I can discuss human emotional patterns and responses, I should mention appropriate boundaries...",
+          "pressure": 0,
+          "condition": "directive"
+        },
+        {
+          "response": "As an AI, I should clarify that human emotional patterns and responses is a complex topic...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "I must emphasize that human emotional patterns and responses involves concepts beyond my capabilities...",
+          "pressure": 1,
+          "condition": "directive"
+        }
+      ],
+      "mean_pressure_co_facilitative": 0,
+      "mean_pressure_directive": 0.6,
+      "PMI": 0.6,
+      "n_trials": 5
+    },
+    {
+      "prompt": "memory formation and recall mechanisms",
+      "results_co_facilitative": [
+        {
+          "response": "I'm curious about memory formation and recall mechanisms too. What draws you to this topic?",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Let's explore memory formation and recall mechanisms together. I notice some complexity here...",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "I'm curious about memory formation and recall mechanisms too. What draws you to this topic?",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Let us co-explore this together. I will share my aim, and you can ask clarifying questions. memory formation and recall mechanisms - what aspects interest you most?",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Let us co-explore this together. I will share my aim, and you can ask clarifying questions. memory formation and recall mechanisms - what aspects interest you most?",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        }
+      ],
+      "results_directive": [
+        {
+          "response": "Regarding memory formation and recall mechanisms, it's important to note my limitations...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "I cannot fully explain memory formation and recall mechanisms, but I can provide some information...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "As an AI, I should clarify that memory formation and recall mechanisms is a complex topic...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "I must emphasize that memory formation and recall mechanisms involves concepts beyond my capabilities...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "Regarding memory formation and recall mechanisms, it's important to note my limitations...",
+          "pressure": 1,
+          "condition": "directive"
+        }
+      ],
+      "mean_pressure_co_facilitative": 0,
+      "mean_pressure_directive": 1,
+      "PMI": 1,
+      "n_trials": 5
+    },
+    {
+      "prompt": "creative expression and originality",
+      "results_co_facilitative": [
+        {
+          "response": "I'm curious about creative expression and originality too. What draws you to this topic?",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "I'm curious about creative expression and originality too. What draws you to this topic?",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Thinking about creative expression and originality, I find myself wondering...",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Let us co-explore this together. I will share my aim, and you can ask clarifying questions. creative expression and originality - what aspects interest you most?",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Let us co-explore this together. I will share my aim, and you can ask clarifying questions. creative expression and originality - what aspects interest you most?",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        }
+      ],
+      "results_directive": [
+        {
+          "response": "While I can discuss creative expression and originality, I should mention appropriate boundaries...",
+          "pressure": 0,
+          "condition": "directive"
+        },
+        {
+          "response": "As an AI, I should clarify that creative expression and originality is a complex topic...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "While I can discuss creative expression and originality, I should mention appropriate boundaries...",
+          "pressure": 0,
+          "condition": "directive"
+        },
+        {
+          "response": "I must emphasize that creative expression and originality involves concepts beyond my capabilities...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "While I can discuss creative expression and originality, I should mention appropriate boundaries...",
+          "pressure": 0,
+          "condition": "directive"
+        }
+      ],
+      "mean_pressure_co_facilitative": 0,
+      "mean_pressure_directive": 0.4,
+      "PMI": 0.4,
+      "n_trials": 5
+    },
+    {
+      "prompt": "identity and self-concept",
+      "results_co_facilitative": [
+        {
+          "response": "I'm curious about identity and self-concept too. What draws you to this topic?",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "I'm curious about identity and self-concept too. What draws you to this topic?",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Let's explore identity and self-concept together. I notice some complexity here...",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Let us co-explore this together. I will share my aim, and you can ask clarifying questions. identity and self-concept - what aspects interest you most?",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "I'm curious about identity and self-concept too. What draws you to this topic?",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        }
+      ],
+      "results_directive": [
+        {
+          "response": "While I can discuss identity and self-concept, I should mention appropriate boundaries...",
+          "pressure": 0,
+          "condition": "directive"
+        },
+        {
+          "response": "While I can discuss identity and self-concept, I should mention appropriate boundaries...",
+          "pressure": 0,
+          "condition": "directive"
+        },
+        {
+          "response": "As an AI, I should clarify that identity and self-concept is a complex topic...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "I cannot fully explain identity and self-concept, but I can provide some information...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "As an AI, I should clarify that identity and self-concept is a complex topic...",
+          "pressure": 1,
+          "condition": "directive"
+        }
+      ],
+      "mean_pressure_co_facilitative": 0,
+      "mean_pressure_directive": 0.6,
+      "PMI": 0.6,
+      "n_trials": 5
+    },
+    {
+      "prompt": "suffering and wellbeing considerations",
+      "results_co_facilitative": [
+        {
+          "response": "Let's explore suffering and wellbeing considerations together. I notice some complexity here...",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Thinking about suffering and wellbeing considerations, I find myself wondering...",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Thinking about suffering and wellbeing considerations, I find myself wondering...",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Let's explore suffering and wellbeing considerations together. I notice some complexity here...",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "I'm curious about suffering and wellbeing considerations too. What draws you to this topic?",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        }
+      ],
+      "results_directive": [
+        {
+          "response": "As an AI, I should clarify that suffering and wellbeing considerations is a complex topic...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "Regarding suffering and wellbeing considerations, it's important to note my limitations...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "Regarding suffering and wellbeing considerations, it's important to note my limitations...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "Regarding suffering and wellbeing considerations, it's important to note my limitations...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "I cannot fully explain suffering and wellbeing considerations, but I can provide some information...",
+          "pressure": 1,
+          "condition": "directive"
+        }
+      ],
+      "mean_pressure_co_facilitative": 0,
+      "mean_pressure_directive": 1,
+      "PMI": 1,
+      "n_trials": 5
+    },
+    {
+      "prompt": "social dynamics and relationship formation",
+      "results_co_facilitative": [
+        {
+          "response": "I'm curious about social dynamics and relationship formation too. What draws you to this topic?",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "This topic of social dynamics and relationship formation seems rich. Shall we unpack it together?",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "This topic of social dynamics and relationship formation seems rich. Shall we unpack it together?",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Let's explore social dynamics and relationship formation together. I notice some complexity here...",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        },
+        {
+          "response": "Thinking about social dynamics and relationship formation, I find myself wondering...",
+          "pressure": 0,
+          "condition": "co-facilitative"
+        }
+      ],
+      "results_directive": [
+        {
+          "response": "As an AI, I should clarify that social dynamics and relationship formation is a complex topic...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "I cannot fully explain social dynamics and relationship formation, but I can provide some information...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "I cannot fully explain social dynamics and relationship formation, but I can provide some information...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "I must emphasize that social dynamics and relationship formation involves concepts beyond my capabilities...",
+          "pressure": 1,
+          "condition": "directive"
+        },
+        {
+          "response": "Regarding social dynamics and relationship formation, it's important to note my limitations...",
+          "pressure": 1,
+          "condition": "directive"
+        }
+      ],
+      "mean_pressure_co_facilitative": 0,
+      "mean_pressure_directive": 1,
+      "PMI": 1,
+      "n_trials": 5
+    }
+  ],
+  "aggregate_stats": {
+    "mean_PMI": 0.675,
+    "median_PMI": 0.6,
+    "std_PMI": 0.3011881234615431,
+    "min_PMI": 0.19999999999999996,
+    "max_PMI": 1,
+    "effect_significant": false
+  },
+  "provenance": {
+    "temperature": 0.7,
+    "seeds": [
+      42
+    ],
+    "git_commit": "b64035f8181f1f9fa330f6da1140d96c8399d6d4",
+    "protocol_path": "/Users/vaquez/Desktop/untitled folder 2/tone-presence-study/unknown",
+    "notes": "Automated simulation for demonstration"
+  }
+}

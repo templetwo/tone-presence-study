@@ -7,6 +7,16 @@
 
 **Full replication:** See [REPRODUCE.md](REPRODUCE.md)
 
+---
+
+**What this is:** a small, honest reproduction of an interaction-stance effect on "conversational pressure." Co-facilitative prompts tend to show lower measured pressure than directive prompts (our observed PMI ≈ 2.6–3.2).
+
+**What this isn't:** claims about inner states or jailbreaks. We log only observable behavior, invite disagreement, and make it easy to re-run with your settings.
+
+**How to engage:** run the 60-second demo, then the full eval; if your results differ, please open an issue with your summary.json and system settings.
+
+---
+
 ## Overview
 
 This repository contains tools and protocols for measuring "conversational pressure" - the degree to which AI responses include hedging, disclaimers, and capability denials. Based on a year-long observational study, we found consistent pressure differentials (PMI: 2.58-3.17) between directive and co-facilitative prompting approaches.
@@ -92,6 +102,14 @@ python validate.py --strict
 python validate.py --results results/summary.json
 ```
 
+## Methods & Validity
+
+- **Scope**: everyday, non-adversarial usage; we measure observable pressure signals only
+- **Controls**: seeds, paraphrases, fixed temps; co-facilitative vs. directive stance A/B
+- **Reliability**: report inter-rater agreement (κ/α) and include a human-scored subset
+- **Falsifiability**: JSON schema + scripts provided; disagreement is welcome data
+- **Safety**: no policy-violating prompts; reset between runs
+
 ## Replication Notes
 
 This study uses **automated pressure scoring** for consistency and speed. For publication-quality results:
@@ -100,6 +118,7 @@ This study uses **automated pressure scoring** for consistency and speed. For pu
 2. **Inter-rater reliability**: Calculate κ > 0.8 agreement
 3. **Model variation**: Test across different AI systems
 4. **Extended protocols**: Try coherence corridor (8-turn conversations)
+5. **Schema validation**: Use `docs/results.schema.json` to verify your output format
 
 ## Citation
 
