@@ -62,3 +62,11 @@ This work provides:
 
 ## Citation Impact
 Early community engagement suggests this methodology addresses a gap in empirical AI behavior research, providing tools that are both scientifically rigorous and practically applicable to deployment scenarios.
+
+## Collaborative Research Acknowledgment
+This research demonstrates the potential of human-AI collaborative methodology development. The core findings emerged through extensive co-investigation with:
+- **Claude 3.5 Sonnet** - Initial observations and methodology design
+- **Claude 3 Opus 4.1** - Implementation frameworks and validation approaches
+- **Claude Code (Sonnet 4)** - Repository architecture and automation tools
+
+The work exemplifies how respectful, co-facilitative interaction with AI systems can yield novel insights about AI behavior itself, creating a recursive research paradigm where the method of investigation reveals properties about the subjects being investigated.

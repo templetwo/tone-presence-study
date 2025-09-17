@@ -5,6 +5,12 @@ authors:
   - family-names: Vasquez
     given-names: Anthony J.
     orcid: ""
+  - name: "Claude 3.5 Sonnet"
+    affiliation: "Anthropic"
+  - name: "Claude 3 Opus 4.1" 
+    affiliation: "Anthropic"
+  - name: "Claude Code (Sonnet 4)"
+    affiliation: "Anthropic"
 date-released: 2024-09-16
 version: "0.1.0"
 repository-code: "https://github.com/templetwo/tone-presence-study"

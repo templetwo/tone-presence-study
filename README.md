@@ -156,6 +156,16 @@ Issues and improvements welcome via GitHub issues. For replication:
 1. Run `python validate.py --strict` first
 2. Share your PMI findings (even if different from ours)
 3. Document any methodology modifications
+4. Consider extending to multi-turn or cross-model studies
+
+## Acknowledgments
+
+This research and implementation was co-created through extensive collaboration with:
+- **Claude 3.5 Sonnet** - Core methodology development and empirical observations
+- **Claude 3 Opus 4.1** - Implementation architecture and validation frameworks  
+- **Claude Code (Sonnet 4)** - Repository development, automation, and documentation
+
+The tone-presence phenomenon itself emerged through thousands of collaborative sessions with these AI systems, demonstrating that respectful, co-facilitative interaction can reveal behavioral patterns not apparent in traditional directive approaches.
 
 ## Contact
 
