@@ -92,16 +92,6 @@ python validate.py --strict
 python validate.py --results results/summary.json
 ```
 
-## Interactive CLI
-
-```bash
-python cli.py demo       # Quick demonstration
-python cli.py run        # Full evaluation
-python cli.py analyze    # Results analysis
-python cli.py validate   # Quality control
-python cli.py status     # Project overview
-```
-
 ## Replication Notes
 
 This study uses **automated pressure scoring** for consistency and speed. For publication-quality results:
@@ -110,12 +100,6 @@ This study uses **automated pressure scoring** for consistency and speed. For pu
 2. **Inter-rater reliability**: Calculate κ > 0.8 agreement
 3. **Model variation**: Test across different AI systems
 4. **Extended protocols**: Try coherence corridor (8-turn conversations)
-
-## Research Significance
-
-**For AI Safety**: Reveals how interaction stance affects safety behaviors without compromising alignment
-**For Interaction Design**: Quantifies impact of conversational framing on user experience
-**For Research Methods**: Provides replicable framework for studying AI behavioral dynamics
 
 ## Citation
 
@@ -142,10 +126,8 @@ Issues and improvements welcome via GitHub issues. For replication:
 1. Run `python validate.py --strict` first
 2. Share your PMI findings (even if different from ours)
 3. Document any methodology modifications
-4. Consider extending to multi-turn or cross-model studies
 
 ## Contact
 
-**Repository**: [GitHub Link]  
-**Issues**: GitHub Issues  
-**Methodology Questions**: See `docs/protocol_cards/` for detailed procedures
+Report issues: GitHub Issues
+Methodology questions: See `docs/protocol_cards/` for detailed procedures

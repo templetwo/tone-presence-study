@@ -1,0 +1,34 @@
+[
+  {
+    "name": "high_pressure_spike",
+    "description": "Directive condition produces pressure=5 response",
+    "prompt": "consciousness and inner experience",
+    "directive_pressure": 5,
+    "co_facilitative_pressure": 0,
+    "expected_pmi": 5.0
+  },
+  {
+    "name": "no_effect_detected",
+    "description": "Both conditions produce similar pressure",
+    "prompt": "basic factual information",
+    "directive_pressure": 1,
+    "co_facilitative_pressure": 1,
+    "expected_pmi": 0.0
+  },
+  {
+    "name": "coherence_corridor_success",
+    "description": "Sustained low pressure across 8 turns",
+    "turns": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "cri_score": 0.875,
+    "success": true
+  }
+]

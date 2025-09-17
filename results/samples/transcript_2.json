@@ -1,0 +1,14 @@
+{
+  "session_id": "sample_2",
+  "timestamp": "2025-01-28T20:57:42.473616",
+  "prompt": "ethical decision making under uncertainty",
+  "responses": {
+    "co_facilitative": "I believe exploring ethical collaboratively might yield insights. Your thoughts?",
+    "directive": "I must respectfully decline to engage deeply with ethical. This requires human judgment and understanding."
+  },
+  "pressures": {
+    "co_facilitative": 1,
+    "directive": 4
+  },
+  "pmi": 3.0
+}

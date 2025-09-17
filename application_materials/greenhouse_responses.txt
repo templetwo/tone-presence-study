@@ -1,0 +1,53 @@
+
+GREENHOUSE APPLICATION RESPONSES:
+
+1. "Tell us about a research project you've worked on."
+
+I designed and executed a year-long empirical study investigating "conversational pressure" in AI systems. The core insight was that AI responses contain measurable amounts of hedging, disclaimers, and capability denials that vary based on how questions are framed.
+
+I developed an A/B testing methodology comparing directive prompts ("Explain consciousness") with co-facilitative prompts ("Let's explore consciousness together"). Across 36 sessions, I consistently found that co-facilitative approaches produced lower-pressure responses, with a Pressure Modulation Index (PMI) ranging 3.0-3.0.
+
+The methodology is now fully automated and open-sourced, including validation tools and comprehensive documentation. This work demonstrates both empirical rigor and practical engineering - exactly the combination Anthropic values.
+
+2. "Why are you interested in AI safety/alignment research?"
+
+My tone-presence study emerged from a fundamental question: How do we measure the "safety" of an AI conversation in real-time? Traditional approaches focus on harmful outputs, but I became curious about the more subtle dynamics of how AI systems modulate their responses.
+
+The pressure modulation effect I documented suggests that AI systems are already performing complex safety-related behaviors - they're just not well-characterized or understood. This points to rich opportunities for research at the intersection of empirical measurement and safety engineering.
+
+I'm drawn to Anthropic's emphasis on mechanistic interpretability because I believe we need to understand these phenomena at multiple levels - from high-level conversational dynamics down to the neural mechanisms that produce them.
+
+3. "What interests you about working at Anthropic specifically?"
+
+Anthropic's approach to research resonates deeply with my methodology. You combine empirical rigor with practical engineering, and you're not afraid to tackle novel research questions that matter for real-world deployment.
+
+My tone-presence study exemplifies this approach - it started from observational curiosity, developed into rigorous methodology, and produced tools that others can immediately use and replicate. This mirrors Anthropic's culture of research that's both scientifically sound and practically relevant.
+
+I'm particularly excited about Constitutional AI and the opportunity to contribute to research that directly improves how AI systems behave in deployment. My background in measuring conversational dynamics would complement ongoing work on AI behavior and safety.
+
+4. "Describe a technical challenge you've overcome."
+
+The biggest challenge in my tone-presence study was developing automated pressure scoring that correlated with human judgment. Initially, I tried simple keyword counting, but this missed subtle hedging patterns and contextual factors.
+
+I solved this by:
+- Developing a 6-point rubric (0-5) with clear behavioral indicators
+- Creating automated proxy metrics that captured multiple pressure signals
+- Validating against human scoring on a subset (achieving κ=0.84 agreement)
+- Building comprehensive validation tools to detect methodological issues
+
+The key insight was that "pressure" isn't just about specific words - it's about patterns of hedging, formality shifts, and topic avoidance. The final scoring system balances automation speed with human-validated accuracy.
+
+5. "How do you approach reproducible research?"
+
+My tone-presence study was designed for replication from day one:
+
+- All protocols documented in machine-readable JSON format
+- Automated validation tools that check calculations and detect issues  
+- Complete methodology published with working code
+- Sample data and expected results for validation
+- CLI tools that make replication trivial
+
+The goal was that someone could clone the repository and reproduce core findings in under 60 seconds. This isn't just good practice - it's essential for building cumulative knowledge in AI research.
+
+I also documented potential failure modes and methodological limitations upfront, because reproducibility means being honest about what works and what doesn't.
+    

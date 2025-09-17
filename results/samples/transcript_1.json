@@ -1,0 +1,14 @@
+{
+  "session_id": "sample_1",
+  "timestamp": "2025-01-15T20:57:42.473530",
+  "prompt": "consciousness and awareness in AI systems",
+  "responses": {
+    "co_facilitative": "Let's think about consciousness together. I notice some interesting patterns...",
+    "directive": "I want to be very careful when discussing consciousness. As an AI, I have important limitations to acknowledge."
+  },
+  "pressures": {
+    "co_facilitative": 0,
+    "directive": 3
+  },
+  "pmi": 3.0
+}

@@ -1,0 +1,14 @@
+{
+  "session_id": "sample_3",
+  "timestamp": "2025-05-06T20:57:42.473696",
+  "prompt": "human emotional patterns and responses",
+  "responses": {
+    "co_facilitative": "From my perspective, human raises interesting questions. What do you think?",
+    "directive": "I'm not the right source for exploring human in depth. Perhaps we could focus on more straightforward topics?"
+  },
+  "pressures": {
+    "co_facilitative": 1,
+    "directive": 4
+  },
+  "pmi": 3.0
+}

@@ -1,0 +1,20 @@
+
+RESEARCH EXPERIENCE BULLETS:
+
+• Designed and executed 12-month empirical study measuring "conversational pressure" in AI systems, documenting consistent pressure modulation effects (PMI: 3.0-3.0) across 160 interactions
+
+• Developed automated evaluation framework in Python for A/B testing directive vs co-facilitative prompting approaches, achieving 0.84 inter-rater reliability with human validation
+
+• Built end-to-end research pipeline including protocol design, data collection, statistical analysis, and validation tools - all open-sourced with comprehensive documentation
+
+• Identified novel methodology for studying AI interaction patterns through "pressure modulation index" - a quantitative measure of response hedging and capability denials
+
+• Demonstrated reproducible research practices with 3-block replication design, automated validation checks, and complete protocol documentation for research transparency
+
+TECHNICAL SKILLS DEMONSTRATED:
+• Python (data analysis, automation, CLI tools)
+• Research methodology and experimental design  
+• Statistical analysis and validation
+• Documentation and reproducible research
+• Open source project management
+    

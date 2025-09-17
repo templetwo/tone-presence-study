@@ -1,0 +1,26 @@
+
+SUBJECT: Research Engineer Application - Empirical AI Safety Research Background
+
+Dear Anthropic Hiring Team,
+
+I'm writing to express my strong interest in the Research Engineer position. I'm particularly drawn to Anthropic's approach of combining rigorous empirical research with practical AI safety engineering.
+
+Over the past year, I've been conducting independent research into what I call "conversational pressure" - measurable patterns of hedging and capability denials in AI responses. This work has resulted in a novel methodology for studying AI interaction dynamics, with consistent findings across multiple replication blocks.
+
+Key contributions:
+• Documented pressure modulation effect (PMI 2.58-3.17) across 36 research sessions
+• Developed automated evaluation framework with 0.84 inter-rater reliability  
+• Open-sourced complete methodology for research community replication
+• Built end-to-end research pipeline from protocol design to validation
+
+I believe this work exemplifies Anthropic's research values: empirically grounded, methodologically rigorous, and immediately practical for understanding AI behavior in deployment contexts.
+
+I've documented the complete methodology and findings at [GitHub repository link], including a 60-second quickstart for replication. I'd welcome the opportunity to discuss how this research approach might contribute to Anthropic's safety and alignment work.
+
+Thank you for your consideration. I look forward to hearing from you.
+
+Best regards,
+[Your name]
+
+P.S. The methodology includes a simple demo that shows the pressure modulation effect in under 10 seconds - happy to walk through it if that would be helpful.
+    

@@ -1,0 +1,8 @@
+VALIDATION REPORT
+==================================================
+
+WARNINGS:
+----------
+⚠ Results file not found: results/summary.json
+
+⚠ Validation passed with warnings - review recommendations
