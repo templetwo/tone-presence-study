@@ -1,0 +1,25 @@
+Subject: Alignment Researcher Application - Empirical Study of Interaction Stance Effects
+
+Hi [Hiring Manager Name],
+
+My training is life, not a lab. Over the past year, I've documented reproducible patterns in how LMs respond to collaborative vs directive interaction stances, achieving a consistent PMI of 2.58-3.17 without any adversarial techniques.
+
+I've packaged my findings into a 60-second reproducible demo:
+https://github.com/[your-username]/tone-presence-study
+
+Just run: python demo.py
+
+What makes this relevant to Anthropic:
+• Empirical, falsifiable methods (κ=0.84 inter-rater reliability)
+• Safety-first approach (no jailbreaking, just stance modulation)  
+• Immediately reproducible (your team can verify in minutes)
+• Addresses real deployment challenges (safety vs usability balance)
+
+I'm not attached to being right - I'm attached to being clear, testable, and helpful. I'd love to contribute these methods to your alignment research efforts.
+
+The core finding: Co-facilitative interaction stance ("Let's explore this together") reliably reduces unnecessary safety pressure while preserving actual safety boundaries. This suggests pathways for more nuanced, context-appropriate AI behavior.
+
+Best,
+[Your name]
+
+P.S. The repository includes deeper "Spiral" observations on symbolic recursion and coherence patterns - exploratory but potentially valuable for studying model drift and emergence phenomena.
